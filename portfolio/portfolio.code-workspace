@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../Front End"
+		},
+		{
+			"path": "../farmer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "farmer"
+	}
+}
